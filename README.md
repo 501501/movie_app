@@ -1,3 +1,3 @@
 # Movie App
 
-React JS Fundmentals Course (2020 Update!)
+React JS Fundmentals Course (2021.01.04 Update!)
